@@ -95,3 +95,6 @@ class MyCircularDeque {
  * boolean param_7 = obj.isEmpty();
  * boolean param_8 = obj.isFull();
  */
+
+// Reference 
+// https://leetcode-cn.com/problems/design-circular-deque/solution/shu-zu-shi-xian-de-xun-huan-shuang-duan-dui-lie-by/
